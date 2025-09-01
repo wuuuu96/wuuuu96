@@ -1,16 +1,44 @@
-## Hi there 👋
+# Hi, 很高兴遇见你 👋
 
-<!--
-**wuuuu96/wuuuu96** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🙋‍♂️ 关于我
+- 🔭 专注于 **深度学习 / 计算机视觉 / NLP**
+- ✨ 热衷分享与开源
+- 🌱 目前在学习多模态与大模型
+- 🎯 目标：做有趣的研究，解决真实问题
+- 💬 微信公众号：[你的公众号名字](https://你的公众号链接)
+- 📺 Bilibili：[我的B站主页](https://space.bilibili.com/你的ID)
+- ✍️ CSDN：[我的博客](https://blog.csdn.net/你的ID)
+- 🤝 知乎：[我的知乎](https://www.zhihu.com/people/你的ID)
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub 数据统计
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact&theme=tokyonight)
+
+---
+
+## 🚀 常用技术栈
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+---
+
+## 📌 固定项目 (Pinned)
+👉 你可以在主页右边点击 **Customize your pins**，挑选要展示的项目，比如：
+- 📦 `yolov5-pytorch` —— 基于 YOLOv5 的目标检测实现
+- 📦 `faster-rcnn-pytorch` —— Faster R-CNN 语义分割
+- 📦 `pointnet-pytorch` —— 点云分割实验代码
+
+---
+
+## 🏆 成就徽章
+![trophy](https://github-profile-trophy.vercel.app/?username=你的GitHub用户名&theme=onedark&row=1&column=6)
+
+---
+
+⭐️ From [你的GitHub用户名](https://github.com/你的GitHub用户名)
+
