@@ -1,7 +1,9 @@
+<!-- 左文右图：右侧固定 340px，左侧自适应；两张卡片上下对齐 -->
 <table>
   <tr>
-    <td style="vertical-align: top; width: 60%;">
-
+    <!-- 左侧：自适应区域，放标题和关于我 -->
+    <td style="vertical-align: top; padding-right: 16px;">
+      
 # Hi, 很高兴遇见你 👋
  
 ## 🙋‍♂️ 关于我 
@@ -14,11 +16,11 @@
 - 🤝 知乎：[我的知乎](https://www.zhihu.com/people/你的ID) 
 
     </td>
-    <td style="vertical-align: top; width: 40%;">
 
-<img width="340" src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/monokai/3-stats.svg" /><br/>
-<img width="340" src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/monokai/1-repos-per-language.svg" />
-
+    <!-- 右侧：固定宽度栏，卡片严格上下对齐 -->
+    <td style="vertical-align: top; width: 340px;">
+      <img width="340" src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/monokai/3-stats.svg" /><br/>
+      <img width="340" src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/monokai/1-repos-per-language.svg" />
     </td>
   </tr>
 </table>
