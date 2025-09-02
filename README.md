@@ -19,7 +19,7 @@
 
     <!-- 右侧：卡片部分，占 45%，上下对齐 -->
     <td style="vertical-align: top; width: 45%;">
-      <img width="300" src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/github/3-stats.svg" /><br/>
+      <img width="300" src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/solarized/3-stats.svg" /><br/>
       <img width="300" src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/monokai/1-repos-per-language.svg" />
     </td>
   </tr>
