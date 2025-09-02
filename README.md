@@ -36,9 +36,9 @@
 ---
 
 ## 🏆 成就徽章
-![trophy](https://github-profile-trophy.vercel.app/?username=你的GitHub用户名&theme=onedark&row=1&column=6)
+![trophy](https://github-profile-trophy.vercel.app/?username=wuuuu96&theme=onedark&row=1&column=6)
 
 ---
 
-⭐️ From [你的GitHub用户名](https://github.com/你的GitHub用户名)
+⭐️ From [你的GitHub用户名](https://github.com/wuuuu96)
 
