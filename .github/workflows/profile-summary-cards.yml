@@ -1,1 +1,25 @@
+name: Profile Summary Cards
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: "0 18 * * *"   # 每天一次（UTC 18:00）
+
+permissions:
+  contents: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Generate cards
+        uses: vn7n24fzkq/github-profile-summary-cards@release
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          USERNAME: ${{ github.repository_owner }}
+          UTC_OFFSET: +08:00
+          # 可选主题：vue, transparent, dracula, github, monokai, solarized 等
+          # 默认会生成多张卡片在 profile-summary-card-output/<主题>/ 目录下
 
