@@ -1,6 +1,6 @@
 <!-- 右上角三张卡片 -->
 <img align="right" width="340"
-     src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/dracula/3-stats.svg" />
+     src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/monokai/3-stats.svg" />
 <img align="right" width="340"
      src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/dracula/1-repos-per-language.svg" />
 <img align="right" width="340"
