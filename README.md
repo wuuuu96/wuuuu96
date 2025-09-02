@@ -19,8 +19,8 @@
 
     <!-- 右侧：卡片部分，占 50%，上下对齐 -->
     <td style="vertical-align: top; width: 50%;">
-      <img width="420" src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/monokai/3-stats.svg" /><br/>
-      <img width="420" src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/monokai/1-repos-per-language.svg" />
+      <img width="320" src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/monokai/3-stats.svg" /><br/>
+      <img width="320" src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/monokai/0-profile-details.svg.svg" />
     </td>
   </tr>
 </table>
