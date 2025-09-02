@@ -1,7 +1,7 @@
-<!-- 左 55% 文字 + 右 45% 卡片，上下对齐 -->
+<!-- 左 55% 文字 + 右 45% 卡片，右侧 5 卡片拼板 -->
 <table>
   <tr>
-    <!-- 左侧：文字部分，占 55% -->
+    <!-- 左侧：文字部分 -->
     <td style="vertical-align: top; width: 55%; padding-right: 24px;">
       
 # Hi, 很高兴遇见你 👋
@@ -17,18 +17,20 @@
 
     </td>
 
-    <!-- 右侧：卡片部分，占 45%，上下对齐 -->
+    <!-- 右侧：卡片拼板 -->
     <td style="vertical-align: top; width: 45%;">
-      <img width="300" src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/2077/0-profile-details.svg" />
-      <img width="300" src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/2077/3-stats.svg" /><br/>
-      <img width="300" src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/2077/4-productive-time.svg" />
-      
+
+      <!-- 大卡片：个人资料 -->
+      <img width="420" src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/2077/0-profile-details.svg" /><br/>
+
+      <!-- 小卡片：语言统计（两张并排） -->
+      <img width="205" src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/2077/1-repos-per-language.svg" />
+      <img width="205" src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/2077/2-most-commit-language.svg" /><br/>
+
+      <!-- 小卡片：综合统计 + 提交时间（两张并排） -->
+      <img width="205" src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/2077/3-stats.svg" />
+      <img width="205" src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/2077/4-productive-time.svg" />
+
     </td>
   </tr>
 </table>
-
-
-
-
-
-
