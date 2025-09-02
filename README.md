@@ -19,9 +19,10 @@
 
     <!-- 右侧：卡片部分，占 45%，上下对齐 -->
     <td style="vertical-align: top; width: 45%;">
+      <img width="300" src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/2077/0-profile-details.svg" />
       <img width="300" src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/2077/3-stats.svg" /><br/>
       <img width="300" src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/2077/1-repos-per-language.svg" />
-      <img width="300" src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/2077/0-profile-details.svg" />
+      
       <img width="300" src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/2077/2-most-commit-language.svg" />
       <img width="300" src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/2077/4-productive-time.svg" />
       
