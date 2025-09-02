@@ -1,7 +1,7 @@
 <table>
   <tr>
     <!-- 左：个人信息 -->
-    <td width="56%" valign="top" style="padding-right:24px;">
+    <td width="50%" valign="top" style="padding-right:24px;">
 
 ## Hi, 很高兴遇见你 👋  
 
@@ -17,10 +17,10 @@
     </td>
 
     <!-- 中：空白间隔 -->
-    <td width="4%">&nbsp;</td>
+    <td width="2%">&nbsp;</td>
 
     <!-- 右：卡片 -->
-    <td width="40%" valign="top" style="max-width:460px;">
+    <td width="48%" valign="top" style="max-width:460px;">
       <img width="100%" src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/monokai/0-profile-details.svg" /><br/>
       <img width="100%" src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/monokai/3-stats.svg" />
     </td>
