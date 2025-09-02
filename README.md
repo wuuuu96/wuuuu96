@@ -1,10 +1,10 @@
 <!-- 右上角三张卡片 -->
 <img align="right" width="340"
-     src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/vue/3-stats.svg" />
+     src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/transparent/3-stats.svg" />
 <img align="right" width="340"
-     src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/vue/1-repos-per-language.svg" />
+     src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/transparent/1-repos-per-language.svg" />
 <img align="right" width="340"
-     src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/vue/4-productive-time.svg" />
+     src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/transparent/4-productive-time.svg" />
 
 
 # Hi, 很高兴遇见你 👋
