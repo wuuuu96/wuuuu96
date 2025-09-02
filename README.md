@@ -27,12 +27,6 @@
 
 
 
-## 📌 固定项目 (Pinned)
-👉 你可以在主页右边点击 **Customize your pins**，挑选要展示的项目，比如：
-- 📦 `yolov5-pytorch` —— 基于 YOLOv5 的目标检测实现
-- 📦 `faster-rcnn-pytorch` —— Faster R-CNN 语义分割
-- 📦 `pointnet-pytorch` —— 点云分割实验代码
 
----
 
 
