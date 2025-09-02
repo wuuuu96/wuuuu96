@@ -1,19 +1,28 @@
-<!-- 右上角上下对齐的两张卡片 -->
-<p align="right">
-  <img width="340" src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/monokai/3-stats.svg" /><br/>
-  <img width="340" src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/monokai/1-repos-per-language.svg" />
-</p>
+<table>
+  <tr>
+    <td style="vertical-align: top; width: 60%;">
 
 # Hi, 很高兴遇见你 👋
+ 
+## 🙋‍♂️ 关于我 
+- 🔭 专注于 **深度学习 / 计算机视觉 / NLP** 
+- ✨ 热衷分享与开源 
+- 🌱 目前在学习多模态与大模型 
+- 🎯 目标：做有趣的研究，解决真实问题 
+- 📺 Bilibili：[我的B站主页](https://space.bilibili.com/357936991?spm_id_from=333.1007.0.0) 
+- ✍️ CSDN：[我的博客](https://blog.csdn.net/你的ID) 
+- 🤝 知乎：[我的知乎](https://www.zhihu.com/people/你的ID) 
 
-## 🙋‍♂️ 关于我
-- 🔭 专注于 **深度学习 / 计算机视觉 / NLP**
-- ✨ 热衷分享与开源
-- 🌱 目前在学习多模态与大模型
-- 🎯 目标：做有趣的研究，解决真实问题
-- 📺 Bilibili：[我的B站主页](https://space.bilibili.com/357936991?spm_id_from=333.1007.0.0)
-- ✍️ CSDN：[我的博客](https://blog.csdn.net/你的ID)
-- 🤝 知乎：[我的知乎](https://www.zhihu.com/people/你的ID)
+    </td>
+    <td style="vertical-align: top; width: 40%;">
+
+<img width="340" src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/monokai/3-stats.svg" /><br/>
+<img width="340" src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/monokai/1-repos-per-language.svg" />
+
+    </td>
+  </tr>
+</table>
+
 
 
 ## 📊 GitHub 数据统计
