@@ -1,8 +1,14 @@
 name: Metrics
+
+# 必须有 on，顶格写，下面至少保留一个触发器
 on:
+  workflow_dispatch:        # 网页端手动触发
   schedule:
-    - cron: "0 18 * * *"
-  workflow_dispatch:
+    - cron: "0 18 * * *"    # 每天 UTC 18:00 运行（北京+8 为次日 02:00）
+
+# 给 Actions 写文件的权限（否则可能失败）
+permissions:
+  contents: write
 
 jobs:
   build:
@@ -10,17 +16,7 @@ jobs:
     steps:
       - uses: lowlighter/metrics@latest
         with:
-          # 生成文件名（会出现在仓库根目录）
-          filename: metrics.svg
-          # 用默认 GITHUB_TOKEN 即可，若报速率限制再换 PAT
-          token: ${{ secrets.GITHUB_TOKEN }}
+          token: ${{ secrets.GITHUB_TOKEN }}   # 默认令牌足够
+          filename: metrics.svg                # 生成在仓库根目录
           base: header, activity, community, repositories, metadata
           config_timezone: Asia/Shanghai
-
-          # 常用插件（任选）
-          plugin_achievements: yes
-          plugin_achievements_threshold: C
-          plugin_languages: yes
-          plugin_languages_limit: 8
-          plugin_isocalendar: yes
-
