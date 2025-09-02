@@ -26,22 +26,6 @@
 </table>
 
 
-
-## 📊 GitHub 数据统计
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wuuuu96&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wuuuu96&layout=compact&theme=tokyonight)
-
----
-
-## 🚀 常用技术栈
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-
----
-
 ## 📌 固定项目 (Pinned)
 👉 你可以在主页右边点击 **Customize your pins**，挑选要展示的项目，比如：
 - 📦 `yolov5-pytorch` —— 基于 YOLOv5 的目标检测实现
@@ -50,10 +34,4 @@
 
 ---
 
-## 🏆 成就徽章
-![trophy](https://github-profile-trophy.vercel.app/?username=wuuuu96&theme=onedark&row=1&column=6)
-
----
-
-⭐️ From [你的GitHub用户名](https://github.com/wuuuu96)
 
