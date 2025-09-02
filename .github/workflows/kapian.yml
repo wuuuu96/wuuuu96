@@ -1,1 +1,20 @@
+name: Metrics
 
+on:                     # 👈 这里定义触发条件
+  workflow_dispatch:    # 允许你在网页端手动点击运行
+  schedule:             # 定时运行（可选）
+    - cron: "0 18 * * *"   # 每天 UTC 18:00 运行一次（北京时间 02:00）
+
+permissions:
+  contents: write       # 允许写入仓库（必须加，否则生成文件时报权限错）
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}   # 默认自带的 token
+          filename: metrics.svg
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Shanghai
