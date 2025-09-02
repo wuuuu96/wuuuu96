@@ -1,6 +1,6 @@
-<!-- 右上角两张卡片（统一主题，更整齐） -->
+<!-- 右上角上下对齐的两张卡片 -->
 <p align="right">
-  <img width="340" src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/monokai/3-stats.svg" />
+  <img width="340" src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/monokai/3-stats.svg" /><br/>
   <img width="340" src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/monokai/1-repos-per-language.svg" />
 </p>
 
@@ -14,13 +14,6 @@
 - 📺 Bilibili：[我的B站主页](https://space.bilibili.com/357936991?spm_id_from=333.1007.0.0)
 - ✍️ CSDN：[我的博客](https://blog.csdn.net/你的ID)
 - 🤝 知乎：[我的知乎](https://www.zhihu.com/people/你的ID)
-
----
-
-## 📊 更多统计
-<p align="center">
-  <img width="720" src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/monokai/4-productive-time.svg" />
-</p>
 
 
 ## 📊 GitHub 数据统计
