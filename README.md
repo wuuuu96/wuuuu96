@@ -9,12 +9,12 @@
 - 📺 Bilibili：[我的B站主页](https://space.bilibili.com/357936991?spm_id_from=333.1007.0.0)
 - ✍️ CSDN：[我的博客](https://blog.csdn.net/你的ID)
 - 🤝 知乎：[我的知乎](https://www.zhihu.com/people/你的ID)
-
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wuuuu96&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wuuuu96&layout=compact&theme=tokyonight)
 ---
 
 ## 📊 GitHub 数据统计
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wuuuu96&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wuuuu96&layout=compact&theme=tokyonight)
+
 
 ---
 
