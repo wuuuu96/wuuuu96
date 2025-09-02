@@ -1,8 +1,8 @@
-<!-- 左右 50% 布局：左边文字，右边两张卡片上下对齐 -->
+<!-- 左 55% 文字 + 右 45% 卡片，上下对齐 -->
 <table>
   <tr>
-    <!-- 左侧：文字部分，占 50% -->
-    <td style="vertical-align: top; width: 50%; padding-right: 16px;">
+    <!-- 左侧：文字部分，占 55% -->
+    <td style="vertical-align: top; width: 55%; padding-right: 24px;">
       
 # Hi, 很高兴遇见你 👋
  
@@ -17,10 +17,10 @@
 
     </td>
 
-    <!-- 右侧：卡片部分，占 50%，上下对齐 -->
-    <td style="vertical-align: top; width: 50%;">
-      <img width="420" src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/monokai/3-stats.svg" /><br/>
-      <img width="420" src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/monokai/1-repos-per-language.svg" />
+    <!-- 右侧：卡片部分，占 45%，上下对齐 -->
+    <td style="vertical-align: top; width: 45%;">
+      <img width="400" src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/monokai/3-stats.svg" /><br/>
+      <img width="400" src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/monokai/1-repos-per-language.svg" />
     </td>
   </tr>
 </table>
