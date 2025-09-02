@@ -1,10 +1,8 @@
-<img align="right" width="340"
-     src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/monokai/3-stats.svg" />
-<img align="right" width="340"
-     src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/dracula/1-repos-per-language.svg" />
-<img align="right" width="340"
-     src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/dracula/4-productive-time.svg" />
-
+<!-- 右上角两张卡片（统一主题，更整齐） -->
+<p align="right">
+  <img width="340" src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/monokai/3-stats.svg" />
+  <img width="340" src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/monokai/1-repos-per-language.svg" />
+</p>
 
 # Hi, 很高兴遇见你 👋
 
@@ -13,11 +11,17 @@
 - ✨ 热衷分享与开源
 - 🌱 目前在学习多模态与大模型
 - 🎯 目标：做有趣的研究，解决真实问题
-- 💬 微信公众号：[你的公众号名字](https://你的公众号链接)
 - 📺 Bilibili：[我的B站主页](https://space.bilibili.com/357936991?spm_id_from=333.1007.0.0)
 - ✍️ CSDN：[我的博客](https://blog.csdn.net/你的ID)
 - 🤝 知乎：[我的知乎](https://www.zhihu.com/people/你的ID)
+
 ---
+
+## 📊 更多统计
+<p align="center">
+  <img width="720" src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/monokai/4-productive-time.svg" />
+</p>
+
 
 ## 📊 GitHub 数据统计
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wuuuu96&show_icons=true&theme=tokyonight)  
