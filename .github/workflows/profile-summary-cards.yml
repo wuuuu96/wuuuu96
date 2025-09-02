@@ -1,25 +1,20 @@
-name: Profile Summary Cards
+name: Metrics
 
-on:
-  workflow_dispatch:
-  schedule:
-    - cron: "0 18 * * *"   # 每天一次（UTC 18:00）
+on:                     # 👈 这里定义触发条件
+  workflow_dispatch:    # 允许你在网页端手动点击运行
+  schedule:             # 定时运行（可选）
+    - cron: "0 18 * * *"   # 每天 UTC 18:00 运行一次（北京时间 02:00）
 
 permissions:
-  contents: write
+  contents: write       # 允许写入仓库（必须加，否则生成文件时报权限错）
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v4
-      - name: Generate cards
-        uses: vn7n24fzkq/github-profile-summary-cards@release
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+      - uses: lowlighter/metrics@latest
         with:
-          USERNAME: ${{ github.repository_owner }}
-          UTC_OFFSET: +08:00
-          # 可选主题：vue, transparent, dracula, github, monokai, solarized 等
-          # 默认会生成多张卡片在 profile-summary-card-output/<主题>/ 目录下
-
+          token: ${{ secrets.GITHUB_TOKEN }}   # 默认自带的 token
+          filename: metrics.svg
+          base: header, activity, community, repositories, metadata
+          config_timezone: Asia/Shanghai
