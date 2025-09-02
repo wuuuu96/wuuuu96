@@ -1,5 +1,8 @@
 <img align="right" width="340"
      src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/vue/3-stats.svg" />
+<img align="right" width="340"
+     src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/vue/1-repos-per-language.svg" />
+
 
 # Hi, 很高兴遇见你 👋
 
