@@ -13,8 +13,8 @@
 ---
 
 ## 📊 GitHub 数据统计
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=你的GitHub用户名&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=你的GitHub用户名&layout=compact&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wuuuu96&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=wuuuu96&layout=compact&theme=tokyonight)
 
 ---
 
