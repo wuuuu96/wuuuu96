@@ -1,6 +1,8 @@
 # Hi, 很高兴遇见你 👋
 
 ## 🙋‍♂️ 关于我
+<img align="right" width="380"
+     src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/metrics.svg" />
 - 🔭 专注于 **深度学习 / 计算机视觉 / NLP**
 - ✨ 热衷分享与开源
 - 🌱 目前在学习多模态与大模型
