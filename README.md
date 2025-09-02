@@ -1,8 +1,8 @@
-<!-- 左文右图：右侧固定 340px，左侧自适应；两张卡片上下对齐 -->
+<!-- 左右 50% 布局：左边文字，右边两张卡片上下对齐 -->
 <table>
   <tr>
-    <!-- 左侧：自适应区域，放标题和关于我 -->
-    <td style="vertical-align: top; padding-right: 16px;">
+    <!-- 左侧：文字部分，占 50% -->
+    <td style="vertical-align: top; width: 50%; padding-right: 16px;">
       
 # Hi, 很高兴遇见你 👋
  
@@ -17,13 +17,14 @@
 
     </td>
 
-    <!-- 右侧：固定宽度栏，卡片严格上下对齐 -->
-    <td style="vertical-align: top; width: 360px;">
-      <img width="360" src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/monokai/3-stats.svg" /><br/>
-      <img width="360" src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/monokai/1-repos-per-language.svg" />
+    <!-- 右侧：卡片部分，占 50%，上下对齐 -->
+    <td style="vertical-align: top; width: 50%;">
+      <img width="420" src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/monokai/3-stats.svg" /><br/>
+      <img width="420" src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/profile-summary-card-output/monokai/1-repos-per-language.svg" />
     </td>
   </tr>
 </table>
+
 
 
 ## 📌 固定项目 (Pinned)
