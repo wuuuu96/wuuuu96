@@ -1,3 +1,6 @@
+<img align="right" width="380"
+     src="https://raw.githubusercontent.com/wuuuu96/wuuuu96/main/metrics.svg" />
+
 # Hi, 很高兴遇见你 👋
 
 ## 🙋‍♂️ 关于我
@@ -11,7 +14,6 @@
 - 📺 Bilibili：[我的B站主页](https://space.bilibili.com/357936991?spm_id_from=333.1007.0.0)
 - ✍️ CSDN：[我的博客](https://blog.csdn.net/你的ID)
 - 🤝 知乎：[我的知乎](https://www.zhihu.com/people/你的ID)
-
 ---
 
 ## 📊 GitHub 数据统计
